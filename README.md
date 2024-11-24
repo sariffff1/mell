@@ -6,7 +6,7 @@
     <title>repl.it</title>
     <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
     
-    <script src="https://raw.githubusercontent.com/sariffff1/mell/refs/heads/main/script.js"></script><link href="https://raw.githubusercontent.com/sariffff1/mell/refs/heads/main/style.css" rel="stylesheet" type="text/css" />
+    <script src="https://github.com/sariffff1/mell/blob/abf96395f7e72d3ecb732c5a9ac5b9bcf2bfe99a/script.js"></script><link href="https://github.com/sariffff1/mell/blob/abf96395f7e72d3ecb732c5a9ac5b9bcf2bfe99a/style.css" rel="stylesheet" type="text/css" />
 
   </head>
   <body>
