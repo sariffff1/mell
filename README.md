@@ -34,6 +34,6 @@
   <p>Pencet&nbsp;<span id="wrnRed">LOVE</span>-nya~<label class='lovein' onClick="mulai()">&#10084;&#65039;</label></p>
 </div>
 
-    <script src="script.js"></script>
+    <script src="https://raw.githubusercontent.com/sariffff1/mell/refs/heads/main/script.js"></script>
   </body>
 </html>
