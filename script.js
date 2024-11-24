@@ -56,8 +56,8 @@ const author = 'Aku';
                                 await swals.fire('Oke. See you &#10084;&#65039;');
                             }
                             } else {
-                                //gak semangat
-                                await swals.fire(':(');
+                                //semangat
+                                await swals.fire('yeeyyyy:(');
                             }
                         }
                     } else {
